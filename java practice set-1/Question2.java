@@ -1,5 +1,5 @@
 //Write a program to print the area of a rectangle of sides 2 and 3 units respectively.
-public class question2 {
+public class Question2 {
     public static void main(String[] args) {
         int side1 = 2;
         int side2 = 3;
